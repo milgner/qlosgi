@@ -1,416 +1,0 @@
-TOSGi Bundle Quicklook
-v7
-r0
-t281057547.004787
-cCheck dependencies
-cProcessInfoPlistFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist" Info.plist
-cCopyStringsFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
-cCpResource "build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html" head.html
-cCpResource "build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif" bundle.gif
-cCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" debug x86_64 c com.apple.compilers.gcc.4_2
-cCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" debug x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" debug x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug" debug x86_64
-cTouch "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator"
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/RegexKit.framework/Headers/RegexKit.h
-c00000000479465AC0000000000000A7E
-t1200907692
-s2686
-
-N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/Zip.framework/Headers/ZipArchive.h
-c000000004B0FE7290000000000000C85
-t1259333417
-s3205
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h
-c000000004A5D68370000000000000E87
-t1247635511
-s3719
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
-c000000004A5D68380000000000000AF4
-t1247635512
-s2804
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
-c000000004A11F0980000000000000400
-t1242689688
-s1024
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
-c000000004A600B850000000000000EA7
-t1247808389
-s3751
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
-c000000004A6942E10000000000000165
-t1248412385
-s357
-
-N/Library/Frameworks/RegexKit.framework/RegexKit
-c00000000479F0B960000000000173048
-t1201605526
-s1519688
-
-N/Library/Frameworks/Zip.framework/Zip
-c000000004B0FE72E0000000000004D98
-t1259333422
-s19864
-
-N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c000000004A12050E0000000000022140
-t1242694926
-s139584
-
-N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c000000004A5D68960000000000776F30
-t1247635606
-s7827248
-
-N/System/Library/Frameworks/CoreServices.framework/CoreServices
-c000000004A11F09A0000000000021710
-t1242689690
-s136976
-
-N/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004A600BCB0000000000B37440
-t1247808459
-s11760704
-
-N/System/Library/Frameworks/QuickLook.framework/QuickLook
-c000000004A6942F3000000000012F040
-t1248412403
-s1241152
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/English.lproj/InfoPlist.strings
-c000000004A9413AF00000000000001AC
-t1251218351
-s428
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
-c000000004B1061660000000000002892
-t1259364710
-s10386
-i<Cocoa/Cocoa.h>
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<Foundation/NSDictionary.h>
-i<QuickLook/QuickLook.h>
-i<Zip/ZipArchive.h>
-i<RegexKit/RegexKit.h>
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
-c000000004A9413AF00000000000002D0
-t1251218351
-s720
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator
-t1259364723
-s102
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator.dSYM
-t1259359475
-s102
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist
-t1259363088
-s1625
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook
-t1259358485
-s23224
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug
-t1259364723
-s1433024
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
-t1259363088
-s428
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif
-t1259363088
-s1526
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html
-t1259363088
-s299
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GeneratePreviewForURL.o
-t1259364723
-s1266156
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GenerateThumbnailForURL.o
-t1259363090
-s775880
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/OSGi Bundle Quicklook.LinkFileList
-c000000004B105B1000000000000001F2
-t1259363088
-s498
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/main.o
-t1259363090
-s782720
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
-t1259358484
-s33292
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
-t1259358484
-s6780
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook.LinkFileList
-c000000004B10491300000000000001F5
-t1259358483
-s501
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o
-t1259358484
-s12588
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/StaticAnalyzer/debug/x86_64/GeneratePreviewForURL.plist
-t1259364542
-s62678
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/StaticAnalyzer/debug/x86_64/GenerateThumbnailForURL.plist
-t1259363978
-s275
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/StaticAnalyzer/debug/x86_64/main.plist
-t1259363978
-s275
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/bundle.gif
-c000000004A9413AF00000000000005F6
-t1251218351
-s1526
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/head.html
-c000000004A9413AF000000000000012B
-t1251218351
-s299
-
-N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
-c000000004A9413AF0000000000002498
-t1251218351
-s9368
-i<CoreFoundation/CoreFoundation.h>
-i<CoreFoundation/CFPlugInCOM.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-NInfo.plist
-c000000004A9413AF0000000000000680
-t1251218351
-s1664
-
-CAnalyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m"
-s281057342.152077
-e281057342.573939
-r1
-xAnalyze
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
-oclang: warning: the clang compiler does not yet support '-pg'
-oclang: warning: argument unused during compilation: '-fno-eliminate-unused-debug-symbols'
-o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:111:25: warning: Potential leak of an object allocated on line 111 and stored into 'currentHeaderName'
-o                         currentHeaderName = [[header objectAtIndex:0] retain];
-o                                              ^
-o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:112:25: warning: Potential leak of an object allocated on line 112 and stored into 'currentHeaderValue'
-o                         currentHeaderValue = [[NSMutableString alloc] initWithString:[[header objectAtIndex:1] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]]];
-o                                              ^
-o2 diagnostics generated.
-lSLF07#2@89"Analyze /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057342#281057342#0(921"clang: warning: the clang compiler does not yet support '-pg'clang: warning: argument unused during compilation: '-fno-eliminate-unused-debug-symbols'/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:111:25: warning: Potential leak of an object allocated on line 111 and stored into 'currentHeaderName'                         currentHeaderName = [[header objectAtIndex:0] retain];                                              ^/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:112:25: warning: Potential leak of an object allocated on line 112 and stored into 'currentHeaderValue'                         currentHeaderValue = [[NSMutableString alloc] initWithString:[[header objectAtIndex:1] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]]];                                              ^2 diagnostics generated.2(0@85"Potential leak of an object allocated on line 111 and stored into 'currentHeaderName'281057342#18446744073709551615#0#33(17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#77#2#77#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#2#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#4#111#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#4#111#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#25#111#48#21@82"Method returns an Objective-C object with a +0 retain count (non-owning reference)281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#25#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#25#111#48#82"Method returns an Objective-C object with a +0 retain count (non-owning reference)17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#25#111#48#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#24#111#56#21@65"Reference count incremented. The object now has a +1 retain count281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#24#0#0#0"2(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#24#111#56#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#25#111#48#65"Reference count incremented. The object now has a +1 retain count17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#111#24#111#56#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#114#3#114#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#114#3#114#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#115#2#115#2#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#115#2#115#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#6#21@36"Looping back to the head of the loop281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#6#36"Looping back to the head of the loop17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#6#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#37#95#37#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#37#95#37#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#110#22#21@150"Object allocated on line 111 and stored into 'currentHeaderName' is no longer referenced after this point and has a retain count of +1 (object leaked)281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#110#22#150"Object allocated on line 111 and stored into 'currentHeaderName' is no longer referenced after this point and has a retain count of +1 (object leaked)6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0@86"Potential leak of an object allocated on line 112 and stored into 'currentHeaderValue'281057342#18446744073709551615#0#30(17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#77#2#77#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#2#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#112#4#112#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#112#4#112#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#112#25#112#173#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#112#25#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#112#25#112#173#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#112#25#112#173#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#114#3#114#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#114#3#114#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#115#2#115#2#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#115#2#115#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#6#21@36"Looping back to the head of the loop281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#6#36"Looping back to the head of the loop17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#85#2#85#6#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#86#3#86#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#3#87#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#7#87#7#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#29#87#29#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#87#66#87#66#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#92#3#92#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#4#95#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#95#8#95#8#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#105#4#105#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#17@0"281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#4#110#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#110#22#21@151"Object allocated on line 112 and stored into 'currentHeaderValue' is no longer referenced after this point and has a retain count of +1 (object leaked)281057342#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#110#22#151"Object allocated on line 112 and stored into 'currentHeaderValue' is no longer referenced after this point and has a retain count of +1 (object leaked)6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057338#110#22#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1426"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -gstabs+ -fno-eliminate-unused-debug-symbols -O0 -pg -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" --analyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/StaticAnalyzer/debug/x86_64/GeneratePreviewForURL.plist"0#
-
-CAnalyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m"
-s281056778.701857
-e281056778.943199
-r1
-xAnalyze
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
-oclang: warning: the clang compiler does not yet support '-pg'
-oclang: warning: argument unused during compilation: '-fno-eliminate-unused-debug-symbols'
-lSLF07#2@91"Analyze /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281056778#281056778#0(152"clang: warning: the clang compiler does not yet support '-pg'clang: warning: argument unused during compilation: '-fno-eliminate-unused-debug-symbols'0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1430"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -gstabs+ -fno-eliminate-unused-debug-symbols -O0 -pg -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" --analyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/StaticAnalyzer/debug/x86_64/GenerateThumbnailForURL.plist"0#
-
-CAnalyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c"
-s281056777.465557
-e281056778.701747
-r1
-xAnalyze
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
-oclang: warning: the clang compiler does not yet support '-pg'
-oclang: warning: argument unused during compilation: '-fno-eliminate-unused-debug-symbols'
-lSLF07#2@72"Analyze /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281056777#281056778#0(152"clang: warning: the clang compiler does not yet support '-pg'clang: warning: argument unused during compilation: '-fno-eliminate-unused-debug-symbols'0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1382"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -gstabs+ -fno-eliminate-unused-debug-symbols -O0 -pg -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" --analyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/StaticAnalyzer/debug/x86_64/main.plist"0#
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies281057546#281057547#0(0"0(0#1#0"4300882208#0"0#
-
-CCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" debug x86_64 objective-c com.apple.compilers.gcc.4_2
-s281057522.798955
-e281057523.695073
-r1
-xCompileC
-xbuild/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GeneratePreviewForURL.o
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
-xdebug
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@89"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281057522#281057523#0(0"0(0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1372"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -gstabs+ -fno-eliminate-unused-debug-symbols -O0 -pg -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GeneratePreviewForURL.o"0#
-
-CCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" debug x86_64 objective-c com.apple.compilers.gcc.4_2
-s281055890.130923
-e281055890.637613
-r1
-xCompileC
-xbuild/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GenerateThumbnailForURL.o
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
-xdebug
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@91"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281055890#281055890#0(0"0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1376"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -gstabs+ -fno-eliminate-unused-debug-symbols -O0 -pg -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/GenerateThumbnailForURL.o"0#
-
-CCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" debug x86_64 c com.apple.compilers.gcc.4_2
-s281055888.986560
-e281055890.130802
-r1
-xCompileC
-xbuild/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/main.o
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
-xdebug
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281055888#281055890#0(0"0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1328"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -gstabs+ -fno-eliminate-unused-debug-symbols -O0 -pg -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/main.o"0#
-
-CCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s281051283.706447
-e281051284.945076
-r1
-xCompileC
-xbuild/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':
-o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:126: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)
-lSLF07#2@89"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281051283#281051284#0(362"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:126: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)281051284#109#253#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281051260#126#0#126#0#33"'*' is deprecated (declared at *)0(0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1334"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o"0#
-
-CCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s281051284.293191
-e281051284.968690
-r1
-xCompileC
-xbuild/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@91"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281051284#281051284#0(0"0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1338"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o"0#
-
-CCompileC "build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s281051283.705342
-e281051284.293082
-r1
-xCompileC
-xbuild/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281051283#281051284#0(0"0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1290"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o"0#
-
-CCopyStringsFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
-s281055888.902478
-e281055888.986395
-r1
-xCopyStringsFile
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings281055888#281055888#0(0"0(0#0#89"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/English.lproj/InfoPlist.strings4300882208#430"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj"0#
-
-CCpResource "build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif" bundle.gif
-s281055888.909940
-e281055888.915157
-r1
-xCpResource
-xbuild/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif
-xbundle.gif
-lSLF07#2@15"Copy bundle.gif281055888#281055888#0(0"0(0#0#68"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/bundle.gif4300882208#411"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/bundle.gif" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources"0#
-
-CCpResource "build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html" head.html
-s281055888.903456
-e281055888.911010
-r1
-xCpResource
-xbuild/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html
-xhead.html
-lSLF07#2@14"Copy head.html281055888#281055888#0(0"0(0#0#67"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/head.html4300882208#410"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/head.html" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Resources"0#
-
-CGenerateDSYMFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator.dSYM" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug"
-s281052275.246843
-e281052275.349021
-r1
-xGenerateDSYMFile
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator.dSYM
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug
-lSLF07#2@160"GenerateDSYMFile "build/Debug/OSGi Bundle Quicklook.qlgenerator.dSYM" "build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug"281052275#281052275#0(0"0(0#0#146"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug4300882208#362"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/usr/bin/dsymutil "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator.dSYM"0#
-
-CLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook" normal x86_64
-s281051284.968809
-e281051285.005805
-r1
-xLd
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook
-xnormal
-xx86_64
-lSLF07#2@145"Link /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook281051284#281051285#0(0"0(0#0#0"4300882208#971"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks -filelist "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook.LinkFileList" -mmacosx-version-min=10.6 -lz -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Foundation -framework RegexKit -framework Zip -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook"0#
-
-CLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug" debug x86_64
-s281057523.695187
-e281057523.760325
-r1
-xLd
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug
-xdebug
-xx86_64
-lSLF07#2@151"Link /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug281057523#281057523#0(0"0(0#0#0"4300882208#976"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks -filelist "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Debug/OSGi Bundle Quicklook.build/Objects-debug/x86_64/OSGi Bundle Quicklook.LinkFileList" -mmacosx-version-min=10.6 -lz -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Foundation -framework RegexKit -framework Zip -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook_debug"0#
-
-CProcessInfoPlistFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist" Info.plist
-s281055888.898134
-e281055888.902384
-r1
-xProcessInfoPlistFile
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist
-xInfo.plist
-lSLF07#2@18"Process Info.plist281055888#281055888#0(0"0(0#0#68"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/Info.plist4300882208#274"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist"0#
-
-CTouch "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator"
-s281057523.760439
-e281057523.763374
-r1
-xTouch
-x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator
-lSLF07#2@109"Touch /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator281057523#281057523#0(0"0(0#0#0"4300882208#195"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /usr/bin/touch -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Debug/OSGi Bundle Quicklook.qlgenerator"0#
-
