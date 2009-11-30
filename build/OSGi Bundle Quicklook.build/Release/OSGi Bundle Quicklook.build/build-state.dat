@@ -1,0 +1,874 @@
+TOSGi Bundle Quicklook
+v7
+r0
+t281303701.023607
+cCheck dependencies
+cProcessInfoPlistFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCpResource "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html" head.html
+cCpResource "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif" bundle.gif
+cCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook" normal x86_64
+cPBXCp "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/Zip.framework" /Library/Frameworks/Zip.framework
+cPBXCp "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/RegexKit.framework" /Library/Frameworks/RegexKit.framework
+cTouch "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator"
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/RegexKit.framework/Headers/RegexKit.h
+c00000000479465AC0000000000000A7E
+t1200907692
+s2686
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/Zip.framework/Headers/ZipArchive.h
+c000000004A966FF60000000000000C85
+t1251373046
+s3205
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h
+c00000000486499680000000000000EA8
+t1214552424
+s3752
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c0000000047BAD4120000000000000400
+t1203426322
+s1024
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004864A1CA0000000000000B36
+t1214554570
+s2870
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
+c000000004864BE010000000000000166
+t1214561793
+s358
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/RegexKit.framework/Headers/RegexKit.h
+c00000000479465AC0000000000000A7E
+t1200907692
+s2686
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/Zip.framework/Headers/ZipArchive.h
+c000000004B0FE7290000000000000C85
+t1259333417
+s3205
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h
+c000000004A5D68370000000000000E87
+t1247635511
+s3719
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004A5D68380000000000000AF4
+t1247635512
+s2804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004A11F0980000000000000400
+t1242689688
+s1024
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004A600B850000000000000EA7
+t1247808389
+s3751
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
+c000000004A6942E10000000000000165
+t1248412385
+s357
+
+N/Library/Frameworks/RegexKit.framework
+c000000004A96711B00000000000000CC
+t1251373339
+s204
+
+N/Library/Frameworks/RegexKit.framework/RegexKit
+c00000000479F0B960000000000173048
+t1201605526
+s1519688
+
+N/Library/Frameworks/Zip.framework
+c000000004B0FE72E00000000000000CC
+t1259333422
+s204
+
+N/Library/Frameworks/Zip.framework/Zip
+c000000004B0FE72E0000000000004D98
+t1259333422
+s19864
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004A5D68960000000000776F30
+t1247635606
+s7827248
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004A11F09A0000000000021710
+t1242689690
+s136976
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A600BCB0000000000B37440
+t1247808459
+s11760704
+
+N/System/Library/Frameworks/QuickLook.framework/QuickLook
+c000000004A6942F3000000000012F040
+t1248412403
+s1241152
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/../../../../../Library/Frameworks/RegexKit.framework
+c000000004A96711B00000000000000CC
+t1251373339
+s204
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/../../../../../Library/Frameworks/RegexKit.framework/RegexKit
+c00000000479F0B960000000000173048
+t1201605526
+s1519688
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/English.lproj/InfoPlist.strings
+c000000004A9413AF00000000000001AC
+t1251218351
+s428
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
+c000000004B107FA30000000000002860
+t1259372451
+s10336
+i<Cocoa/Cocoa.h>
+i<CoreFoundation/CoreFoundation.h>
+i<CoreServices/CoreServices.h>
+i<Foundation/NSDictionary.h>
+i<QuickLook/QuickLook.h>
+i<Zip/ZipArchive.h>
+i<RegexKit/RegexKit.h>
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
+c000000004A9413AF00000000000002D0
+t1251218351
+s720
+i<CoreFoundation/CoreFoundation.h>
+i<CoreServices/CoreServices.h>
+i<QuickLook/QuickLook.h>
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GeneratePreviewForURL.o
+t1259332685
+s28524
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GenerateThumbnailForURL.o
+t1259332685
+s6408
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/OSGi Bundle Quicklook
+t1259332685
+s27988
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/OSGi Bundle Quicklook.LinkFileList
+c000000004B0FE44C00000000000001F5
+t1259332684
+s501
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/main.o
+t1259332685
+s10544
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GeneratePreviewForURL.o
+t1259332686
+s29040
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GenerateThumbnailForURL.o
+t1259332686
+s6384
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/OSGi Bundle Quicklook
+t1259332686
+s26372
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/OSGi Bundle Quicklook.LinkFileList
+c000000004B0FE44C00000000000001F2
+t1259332684
+s498
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/main.o
+t1259332686
+s10772
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GeneratePreviewForURL.o
+t1259332687
+s41084
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GenerateThumbnailForURL.o
+t1259332687
+s6364
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/OSGi Bundle Quicklook
+t2
+s0
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/OSGi Bundle Quicklook.LinkFileList
+c000000004B0FE44C00000000000001F8
+t1259332684
+s504
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/main.o
+t1259332687
+s11968
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
+t1259610900
+s18452
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
+t1259610900
+s1900
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook
+t2
+s0
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook.LinkFileList
+c000000004B14231300000000000001FB
+t1259610899
+s507
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o
+t1259610900
+s3752
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/StaticAnalyzer/normal/x86_64/GeneratePreviewForURL.plist
+t1259372268
+s20212
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/StaticAnalyzer/normal/x86_64/GenerateThumbnailForURL.plist
+t1259365215
+s275
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/StaticAnalyzer/normal/x86_64/main.plist
+t1259365214
+s275
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/../../../../../../../Library/Frameworks/RegexKit.framework
+c000000004A96711B00000000000000CC
+t1251373339
+s204
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/../../../../../../../Library/Frameworks/RegexKit.framework/RegexKit
+c00000000479F0B960000000000173048
+t1201605526
+s1519688
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator
+t1259610901
+s102
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator.dSYM
+t2
+s0
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/RegexKit.framework
+t1259610900
+s204
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/Zip.framework
+t1259610901
+s204
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist
+t1259610899
+s1625
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook
+t1259610900
+s20432
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
+t1259610899
+s428
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif
+t1259610899
+s1526
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html
+t1259610899
+s299
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/bundle.gif
+c000000004A9413AF00000000000005F6
+t1251218351
+s1526
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/head.html
+c000000004A9413AF000000000000012B
+t1251218351
+s299
+
+N/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
+c000000004A9413AF0000000000002498
+t1251218351
+s9368
+i<CoreFoundation/CoreFoundation.h>
+i<CoreFoundation/CFPlugInCOM.h>
+i<CoreServices/CoreServices.h>
+i<QuickLook/QuickLook.h>
+
+NInfo.plist
+c000000004A9413AF0000000000000680
+t1251218351
+s1664
+
+CAnalyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m"
+s281065067.866939
+e281065068.585541
+r1
+xAnalyze
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
+oclang: warning: argument unused during compilation: '-msse4.1'
+oclang: warning: argument unused during compilation: '-msse4.2'
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:120:25: warning: Potential leak of an object allocated on line 120 and stored into 'currentHeaderValue'
+o                         currentHeaderValue = [[NSMutableString alloc] initWithString:[[header objectAtIndex:1] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]]];
+o                                              ^
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:143:22: warning: 'stringWithContentsOfFile:' is deprecated [-Wdeprecated-declarations]
+o         [html appendString:[NSString stringWithContentsOfFile:[NSString stringWithFormat:@"%@%@", bundlePath, @"/Contents/Resources/head.html"]]]; //  encoding: NSUnicodeStringEncoding error:NULL
+o                             ^
+o2 diagnostics generated.
+lSLF07#2@89"Analyze /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065067#281065068#0(979"clang: warning: argument unused during compilation: '-msse4.1'clang: warning: argument unused during compilation: '-msse4.2'/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:120:25: warning: Potential leak of an object allocated on line 120 and stored into 'currentHeaderValue'                         currentHeaderValue = [[NSMutableString alloc] initWithString:[[header objectAtIndex:1] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]]];                                              ^/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:143:22: warning: 'stringWithContentsOfFile:' is deprecated [-Wdeprecated-declarations]         [html appendString:[NSString stringWithContentsOfFile:[NSString stringWithFormat:@"%@%@", bundlePath, @"/Contents/Resources/head.html"]]]; //  encoding: NSUnicodeStringEncoding error:NULL                             ^2 diagnostics generated.1(0@86"Potential leak of an object allocated on line 120 and stored into 'currentHeaderValue'281065068#18446744073709551615#0#20(17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#79#2#79#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#87#2#87#2#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#87#2#87#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#88#3#88#3#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#88#3#88#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#3#89#3#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#3#89#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#7#89#7#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#7#89#7#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#29#89#29#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#29#89#29#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#66#89#66#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#89#66#89#66#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#100#3#100#3#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#100#3#100#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#103#4#103#4#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#103#4#103#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#113#4#113#4#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#113#4#113#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#118#4#118#4#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#118#4#118#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#120#4#120#4#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#120#4#120#4#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#120#25#120#173#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#120#25#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#120#25#120#173#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#120#25#120#173#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#122#3#122#3#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#122#3#122#3#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#123#2#123#2#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#123#2#123#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#87#2#87#6#21@36"Looping back to the head of the loop281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#87#2#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#87#2#87#6#36"Looping back to the head of the loop17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#87#2#87#6#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#124#2#124#2#17@0"281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#0"0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#0#0#0#0#1(3@6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#124#2#124#2#6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#128#2#128#5#21@151"Object allocated on line 120 and stored into 'currentHeaderValue' is no longer referenced after this point and has a retain count of +1 (object leaked)281065068#18446744073709551615#0#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#128#2#0#0#0"1(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#128#2#128#5#151"Object allocated on line 120 and stored into 'currentHeaderValue' is no longer referenced after this point and has a retain count of +1 (object leaked)6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065062#128#2#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1422"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -mmacosx-version-min=10.6 -msse3 -mssse3 -msse4.1 -msse4.2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" --analyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/StaticAnalyzer/normal/x86_64/GeneratePreviewForURL.plist"0#
+
+CAnalyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m"
+s281058014.987311
+e281058015.203372
+r1
+xAnalyze
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
+oclang: warning: argument unused during compilation: '-msse4.1'
+oclang: warning: argument unused during compilation: '-msse4.2'
+lSLF07#2@91"Analyze /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281058014#281058015#0(126"clang: warning: argument unused during compilation: '-msse4.1'clang: warning: argument unused during compilation: '-msse4.2'0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1426"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -mmacosx-version-min=10.6 -msse3 -mssse3 -msse4.1 -msse4.2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" --analyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/StaticAnalyzer/normal/x86_64/GenerateThumbnailForURL.plist"0#
+
+CAnalyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c"
+s281058014.713295
+e281058014.987203
+r1
+xAnalyze
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
+oclang: warning: argument unused during compilation: '-msse4.1'
+oclang: warning: argument unused during compilation: '-msse4.2'
+lSLF07#2@72"Analyze /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281058014#281058014#0(126"clang: warning: argument unused during compilation: '-msse4.1'clang: warning: argument unused during compilation: '-msse4.2'0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1378"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -mmacosx-version-min=10.6 -msse3 -mssse3 -msse4.1 -msse4.2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" --analyze "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/StaticAnalyzer/normal/x86_64/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies281303699#281303699#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s281025484.487296
+e281025485.662086
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GeneratePreviewForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:123: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)
+lSLF07#2@89"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281025484#281025485#0(362"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:123: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)281025485#109#253#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m272911151#123#0#123#0#33"'*' is deprecated (declared at *)0(0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1321"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/i386" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GeneratePreviewForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s281025485.090677
+e281025485.611067
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GenerateThumbnailForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281025485#281025485#0(0"0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1325"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/i386" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/GenerateThumbnailForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" normal i386 c com.apple.compilers.gcc.4_2
+s281025484.486197
+e281025485.090559
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/main.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281025484#281025485#0(0"0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1277"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/i386" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s281025485.706857
+e281025486.865122
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GeneratePreviewForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:123: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)
+lSLF07#2@89"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281025485#281025486#0(362"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:123: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)281025486#109#253#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m272911151#123#0#123#0#33"'*' is deprecated (declared at *)0(0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1315"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/ppc" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GeneratePreviewForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s281025486.146731
+e281025486.684424
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GenerateThumbnailForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281025486#281025486#0(0"0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1319"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/ppc" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/GenerateThumbnailForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" normal ppc c com.apple.compilers.gcc.4_2
+s281025485.611194
+e281025486.146558
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/main.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281025485#281025486#0(0"0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1271"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/ppc" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+s281025486.901782
+e281025488.015642
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GeneratePreviewForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
+xnormal
+xppc64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:123: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)
+lSLF07#2@89"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281025486#281025488#0(362"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:123: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)281025487#109#253#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m272911151#123#0#123#0#33"'*' is deprecated (declared at *)0(0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1321"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/ppc64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GeneratePreviewForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" normal ppc64 objective-c com.apple.compilers.gcc.4_2
+s281025487.184699
+e281025487.635659
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GenerateThumbnailForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
+xnormal
+xppc64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281025487#281025487#0(0"0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1325"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/ppc64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/GenerateThumbnailForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" normal ppc64 c com.apple.compilers.gcc.4_2
+s281025486.684548
+e281025487.184579
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/main.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
+xnormal
+xppc64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281025486#281025487#0(0"0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1277"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/ppc64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/main.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281303699.572828
+e281303700.664717
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':
+o/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:141: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)
+lSLF07#2@89"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281303699#281303700#0(362"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m: In function 'createHtml':/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m:141: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)1(22@156"'stringWithContentsOfFile:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:379)281303700#109#253#0(6@81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m281065251#141#0#141#0#33"'*' is deprecated (declared at *)0(0#0#81"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m4300882208#1368"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fstrict-aliasing -msse3 -mssse3 -msse4.1 -msse4.2 -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GeneratePreviewForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GeneratePreviewForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s281303700.586673
+e281303700.955818
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m281303700#281303700#0(0"0(0#0#83"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m4300882208#1372"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fstrict-aliasing -msse3 -mssse3 -msse4.1 -msse4.2 -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/GenerateThumbnailForURL.m" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o"0#
+
+CCompileC "build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s281303699.571860
+e281303700.586554
+r1
+xCompileC
+xbuild/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c281303699#281303700#0(0"0(0#0#64"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c4300882208#1324"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fstrict-aliasing -msse3 -mssse3 -msse4.1 -msse4.2 -mmacosx-version-min=10.6 "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/OSGi Bundle Quicklook.hmap" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/include" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources/x86_64" "-I/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/DerivedSources" -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/main.c" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/main.o"0#
+
+CCopyStringsFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s281303699.541579
+e281303699.571733
+r1
+xCopyStringsFile
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings281303699#281303699#0(0"0(0#0#89"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/English.lproj/InfoPlist.strings4300882208#432"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif" bundle.gif
+s281303699.543136
+e281303699.549670
+r1
+xCpResource
+xbuild/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/bundle.gif
+xbundle.gif
+lSLF07#2@15"Copy bundle.gif281303699#281303699#0(0"0(0#0#68"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/bundle.gif4300882208#434"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/bundle.gif" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources"0#
+
+CCpResource "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html" head.html
+s281303699.542464
+e281303699.552859
+r1
+xCpResource
+xbuild/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources/head.html
+xhead.html
+lSLF07#2@14"Copy head.html281303699#281303699#0(0"0(0#0#67"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/head.html4300882208#433"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/head.html" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook" normal "i386 ppc ppc64 x86_64"
+r0
+
+CGenerateDSYMFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator.dSYM" "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook"
+s281057624.343270
+e281057624.412164
+r1
+xGenerateDSYMFile
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator.dSYM
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook
+lSLF07#2@158"GenerateDSYMFile "build/Release/OSGi Bundle Quicklook.qlgenerator.dSYM" "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook"281057624#281057624#0(0"0(0#0#142"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook4300882208#360"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/usr/bin/dsymutil "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook" -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator.dSYM"0#
+
+CLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/OSGi Bundle Quicklook" normal i386
+s281025485.662202
+e281025485.706720
+r1
+xLd
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/OSGi Bundle Quicklook
+xnormal
+xi386
+lSLF07#2@174"Link /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/OSGi Bundle Quicklook281025485#281025485#0(0"0(0#0#0"4300882208#1002"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks -filelist "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/OSGi Bundle Quicklook.LinkFileList" -mmacosx-version-min=10.5 -lz -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Foundation -framework RegexKit -framework Zip -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/i386/OSGi Bundle Quicklook"0#
+
+CLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/OSGi Bundle Quicklook" normal ppc
+s281025486.865262
+e281025486.901667
+r1
+xLd
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/OSGi Bundle Quicklook
+xnormal
+xppc
+lSLF07#2@173"Link /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/OSGi Bundle Quicklook281025486#281025486#0(0"0(0#0#0"4300882208#999"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks -filelist "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/OSGi Bundle Quicklook.LinkFileList" -mmacosx-version-min=10.5 -lz -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Foundation -framework RegexKit -framework Zip -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc/OSGi Bundle Quicklook"0#
+
+CLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/OSGi Bundle Quicklook" normal ppc64
+s281025488.015850
+e281025488.072791
+r0
+xLd
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/OSGi Bundle Quicklook
+xnormal
+xppc64
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/bundle1.o, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libz.dylib, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//CoreFoundation.framework/CoreFoundation, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//CoreServices.framework/CoreServices, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//ApplicationServices.framework/ApplicationServices, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//QuickLook.framework/QuickLook, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//Foundation.framework/Foundation, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks//Zip.framework/Zip, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libgcc_s.10.5.dylib, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libSystemStubs.a, missing required architecture ppc64 in file
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libSystem.dylib, missing required architecture ppc64 in file
+oUndefined symbols:
+o  "_kQLPreviewPropertyAttachmentDataKey", referenced from:
+o      _kQLPreviewPropertyAttachmentDataKey$non_lazy_ptr in GeneratePreviewForURL.o
+o  "_OBJC_CLASS_$_NSBundle", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_CFURLCopyFileSystemPath", referenced from:
+o      _GeneratePreviewForURL in GeneratePreviewForURL.o
+o  "_CFEqual", referenced from:
+o      _QuickLookGeneratorQueryInterface in main.o
+o      _QuickLookGeneratorPluginFactory in main.o
+o  "_OBJC_CLASS_$_ZipArchive", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_kQLPreviewPropertyMIMETypeKey", referenced from:
+o      _kQLPreviewPropertyMIMETypeKey$non_lazy_ptr in GeneratePreviewForURL.o
+o  "_OBJC_CLASS_$_NSMutableString", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_OBJC_CLASS_$_NSCharacterSet", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_kQLPreviewPropertyAttachmentsKey", referenced from:
+o      _kQLPreviewPropertyAttachmentsKey$non_lazy_ptr in GeneratePreviewForURL.o
+o  "_kUTTypeHTML", referenced from:
+o      _kUTTypeHTML$non_lazy_ptr in GeneratePreviewForURL.o
+o  "_CFUUIDCreateFromString", referenced from:
+o      _QuickLookGeneratorPluginFactory in main.o
+o  "_kCFAllocatorDefault", referenced from:
+o      _kCFAllocatorDefault$non_lazy_ptr in main.o
+o  "_kQLPreviewPropertyTextEncodingNameKey", referenced from:
+o      _kQLPreviewPropertyTextEncodingNameKey$non_lazy_ptr in GeneratePreviewForURL.o
+o  "_free", referenced from:
+o      _DeallocQuickLookGeneratorPluginType in main.o
+o      _DeallocQuickLookGeneratorPluginType in main.o
+o      _readBundleManifest in GeneratePreviewForURL.o
+o  "___CFConstantStringClassReference", referenced from:
+o      cfstring=F6DDB9E5-0991-4B47-B8CB-25E4F3CDE900 in main.o
+o      cfstring=%@<br/> in GeneratePreviewForURL.o
+o      cfstring=UTF-8 in GeneratePreviewForURL.o
+o      cfstring=text/html in GeneratePreviewForURL.o
+o      cfstring=de.dudedevelopment.osgiquicklookgenerator in GeneratePreviewForURL.o
+o      cfstring=<html> in GeneratePreviewForURL.o
+o      cfstring=%@%@ in GeneratePreviewForURL.o
+o      cfstring=/Contents/Resources/head.html in GeneratePreviewForURL.o
+o      cfstring=<body>	<div style="float:left; padding: 10px;"><img src="cid:bundle.gif"/></div> in GeneratePreviewForURL.o
+o      cfstring=<div class="table"> in GeneratePreviewForURL.o
+o      cfstring=^[a-zA-Z0-9/]+\.class$ in GeneratePreviewForURL.o
+o      cfstring=/ in GeneratePreviewForURL.o
+o      cfstring=. in GeneratePreviewForURL.o
+o      cfstring=<div class="tr"><div class="td">Included classes:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o
+o      cfstring=</div><h4>Other headers:</h4><div class="table"> in GeneratePreviewForURL.o
+o      cfstring=<div class="tr"><div class="td">%@:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o
+o      cfstring=</div></body></html> in GeneratePreviewForURL.o
+o      cfstring=/Contents/Resources/bundle.gif in GeneratePreviewForURL.o
+o      cfstring=image/gif in GeneratePreviewForURL.o
+o      cfstring=bundle.gif in GeneratePreviewForURL.o
+o      cfstring=: in GeneratePreviewForURL.o
+o      cfstring=:  in GeneratePreviewForURL.o
+o      cfstring=Could not open JAR file in GeneratePreviewForURL.o
+o      cfstring=META-INF/MANIFEST.MF in GeneratePreviewForURL.o
+o      cfstring=No manifest found, not a valid JAR file in GeneratePreviewForURL.o
+o      cfstring=Bundle-SymbolicName in GeneratePreviewForURL.o
+o      cfstring=Bundle-SymbolicName not set, not a valid OSGi bundle in GeneratePreviewForURL.o
+o      cfstring=Bundle-ManifestVersion in GeneratePreviewForURL.o
+o      cfstring= in GeneratePreviewForURL.o
+o      cfstring=Manifest-Version in GeneratePreviewForURL.o
+o      cfstring=Bundle-Name in GeneratePreviewForURL.o
+o      cfstring=<h1>%@</h1> in GeneratePreviewForURL.o
+o      cfstring=<h2>%@</h2> in GeneratePreviewForURL.o
+o      cfstring=Bundle-Version in GeneratePreviewForURL.o
+o      cfstring=<h4>Version: %@</h4> in GeneratePreviewForURL.o
+o      cfstring=Bundle-Vendor in GeneratePreviewForURL.o
+o      cfstring=<h4>Vendor: %@</h4> in GeneratePreviewForURL.o
+o      cfstring=Bundle-Description in GeneratePreviewForURL.o
+o      cfstring=<div class="description">%@</div> in GeneratePreviewForURL.o
+o      cfstring=Bundle-ActivationPolicy in GeneratePreviewForURL.o
+o      cfstring=<div class="tr"><div class="td">Activation policy:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o
+o      cfstring=Bundle-Activator in GeneratePreviewForURL.o
+o      cfstring=<div class="tr"><div class="td">Activator class:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o
+o      cfstring=Export-Package in GeneratePreviewForURL.o
+o      cfstring=<div class="tr"><div class="td">Exported packages:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o
+o      cfstring=Import-Package in GeneratePreviewForURL.o
+o      cfstring=<div class="tr"><div class="td">Imported packages:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o
+o      cfstring=([a-zA-Z0-9\.]+)(((;[a-zA-Z]+:?=(("(\(|\[)?[\w\., ]+(\)|\])?")|([\w\.]+)))*(,|$))|(,|$)) in GeneratePreviewForURL.o
+o  "_objc_enumerationMutation", referenced from:
+o      _createHtml in GeneratePreviewForURL.o
+o      _createHtml in GeneratePreviewForURL.o
+o  "_OBJC_CLASS_$_NSAutoreleasePool", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_OBJC_CLASS_$_NSMutableDictionary", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_fgets", referenced from:
+o      _readBundleManifest in GeneratePreviewForURL.o
+o  "_OBJC_CLASS_$_NSDictionary", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_QLPreviewRequestIsCancelled", referenced from:
+o      _GeneratePreviewForURL in GeneratePreviewForURL.o
+o      _GeneratePreviewForURL in GeneratePreviewForURL.o
+o  "_OBJC_CLASS_$_NSString", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_CFRelease", referenced from:
+o      _QuickLookGeneratorQueryInterface in main.o
+o      _QuickLookGeneratorQueryInterface in main.o
+o      _DeallocQuickLookGeneratorPluginType in main.o
+o      _QuickLookGeneratorPluginFactory in main.o
+o  "_CFRetain", referenced from:
+o      _AllocQuickLookGeneratorPluginType in main.o
+o  "_malloc", referenced from:
+o      _AllocQuickLookGeneratorPluginType in main.o
+o      _AllocQuickLookGeneratorPluginType in main.o
+o      _readBundleManifest in GeneratePreviewForURL.o
+o  "_CFUUIDGetConstantUUIDWithBytes", referenced from:
+o      _QuickLookGeneratorQueryInterface in main.o
+o      _QuickLookGeneratorPluginFactory in main.o
+o  "_NSLog", referenced from:
+o      _GeneratePreviewForURL in GeneratePreviewForURL.o
+o      _GeneratePreviewForURL in GeneratePreviewForURL.o
+o  "_CFPlugInAddInstanceForFactory", referenced from:
+o      _AllocQuickLookGeneratorPluginType in main.o
+o  "_CFUUIDCreateFromUUIDBytes", referenced from:
+o      _QuickLookGeneratorQueryInterface in main.o
+o  "_QLPreviewRequestSetDataRepresentation", referenced from:
+o      _GeneratePreviewForURL in GeneratePreviewForURL.o
+o  "_CFPlugInRemoveInstanceForFactory", referenced from:
+o      _DeallocQuickLookGeneratorPluginType in main.o
+o  "_OBJC_CLASS_$_NSData", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+o  "_fclose", referenced from:
+o      _GeneratePreviewForURL in GeneratePreviewForURL.o
+o  "_objc_msgSend_fixup", referenced from:
+o      l_objc_msgSend_fixup_alloc in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_init in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_autorelease in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_matchEnumeratorWithRegex_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_nextRangeForCapture_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_substringWithRange_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_appendFormat_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_objectForKey_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_removeObjectForKey_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_characterSetWithCharactersInString_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_initWithUTF8String_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_characterAtIndex_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_whitespaceAndNewlineCharacterSet in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_stringByTrimmingCharactersInSet_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_appendString_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_setObject_forKey_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_release in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_rangeOfCharacterFromSet_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_componentsSeparatedByString_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_objectAtIndex_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_retain in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_initWithString_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_bundleWithIdentifier_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_bundlePath in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_stringWithFormat_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_stringWithContentsOfFile_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_regexWithRegexString_options_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_entries in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_isMatchedByRegex_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_length in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_substringToIndex_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_stringByReplacingOccurrencesOfString_withString_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_countByEnumeratingWithState_objects_count_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_count in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_allKeys in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_dataWithContentsOfFile_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_dictionaryWithObject_forKey_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_initWithFile_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_entryNamed_ in GeneratePreviewForURL.o
+o      l_objc_msgSend_fixup_dataUsingEncoding_ in GeneratePreviewForURL.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@175"Link /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/OSGi Bundle Quicklook281025488#281025488#0(11932"ld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/bundle1.o, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libz.dylib, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//CoreFoundation.framework/CoreFoundation, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//CoreServices.framework/CoreServices, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//ApplicationServices.framework/ApplicationServices, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//QuickLook.framework/QuickLook, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//Foundation.framework/Foundation, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks//Zip.framework/Zip, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libgcc_s.10.5.dylib, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libSystemStubs.a, missing required architecture ppc64 in fileld: warning: in /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libSystem.dylib, missing required architecture ppc64 in fileUndefined symbols:  "_kQLPreviewPropertyAttachmentDataKey", referenced from:      _kQLPreviewPropertyAttachmentDataKey$non_lazy_ptr in GeneratePreviewForURL.o  "_OBJC_CLASS_$_NSBundle", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_CFURLCopyFileSystemPath", referenced from:      _GeneratePreviewForURL in GeneratePreviewForURL.o  "_CFEqual", referenced from:      _QuickLookGeneratorQueryInterface in main.o      _QuickLookGeneratorPluginFactory in main.o  "_OBJC_CLASS_$_ZipArchive", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_kQLPreviewPropertyMIMETypeKey", referenced from:      _kQLPreviewPropertyMIMETypeKey$non_lazy_ptr in GeneratePreviewForURL.o  "_OBJC_CLASS_$_NSMutableString", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_OBJC_CLASS_$_NSCharacterSet", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_kQLPreviewPropertyAttachmentsKey", referenced from:      _kQLPreviewPropertyAttachmentsKey$non_lazy_ptr in GeneratePreviewForURL.o  "_kUTTypeHTML", referenced from:      _kUTTypeHTML$non_lazy_ptr in GeneratePreviewForURL.o  "_CFUUIDCreateFromString", referenced from:      _QuickLookGeneratorPluginFactory in main.o  "_kCFAllocatorDefault", referenced from:      _kCFAllocatorDefault$non_lazy_ptr in main.o  "_kQLPreviewPropertyTextEncodingNameKey", referenced from:      _kQLPreviewPropertyTextEncodingNameKey$non_lazy_ptr in GeneratePreviewForURL.o  "_free", referenced from:      _DeallocQuickLookGeneratorPluginType in main.o      _DeallocQuickLookGeneratorPluginType in main.o      _readBundleManifest in GeneratePreviewForURL.o  "___CFConstantStringClassReference", referenced from:      cfstring=F6DDB9E5-0991-4B47-B8CB-25E4F3CDE900 in main.o      cfstring=%@<br/> in GeneratePreviewForURL.o      cfstring=UTF-8 in GeneratePreviewForURL.o      cfstring=text/html in GeneratePreviewForURL.o      cfstring=de.dudedevelopment.osgiquicklookgenerator in GeneratePreviewForURL.o      cfstring=<html> in GeneratePreviewForURL.o      cfstring=%@%@ in GeneratePreviewForURL.o      cfstring=/Contents/Resources/head.html in GeneratePreviewForURL.o      cfstring=<body>	<div style="float:left; padding: 10px;"><img src="cid:bundle.gif"/></div> in GeneratePreviewForURL.o      cfstring=<div class="table"> in GeneratePreviewForURL.o      cfstring=^[a-zA-Z0-9/]+\.class$ in GeneratePreviewForURL.o      cfstring=/ in GeneratePreviewForURL.o      cfstring=. in GeneratePreviewForURL.o      cfstring=<div class="tr"><div class="td">Included classes:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o      cfstring=</div><h4>Other headers:</h4><div class="table"> in GeneratePreviewForURL.o      cfstring=<div class="tr"><div class="td">%@:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o      cfstring=</div></body></html> in GeneratePreviewForURL.o      cfstring=/Contents/Resources/bundle.gif in GeneratePreviewForURL.o      cfstring=image/gif in GeneratePreviewForURL.o      cfstring=bundle.gif in GeneratePreviewForURL.o      cfstring=: in GeneratePreviewForURL.o      cfstring=:  in GeneratePreviewForURL.o      cfstring=Could not open JAR file in GeneratePreviewForURL.o      cfstring=META-INF/MANIFEST.MF in GeneratePreviewForURL.o      cfstring=No manifest found, not a valid JAR file in GeneratePreviewForURL.o      cfstring=Bundle-SymbolicName in GeneratePreviewForURL.o      cfstring=Bundle-SymbolicName not set, not a valid OSGi bundle in GeneratePreviewForURL.o      cfstring=Bundle-ManifestVersion in GeneratePreviewForURL.o      cfstring= in GeneratePreviewForURL.o      cfstring=Manifest-Version in GeneratePreviewForURL.o      cfstring=Bundle-Name in GeneratePreviewForURL.o      cfstring=<h1>%@</h1> in GeneratePreviewForURL.o      cfstring=<h2>%@</h2> in GeneratePreviewForURL.o      cfstring=Bundle-Version in GeneratePreviewForURL.o      cfstring=<h4>Version: %@</h4> in GeneratePreviewForURL.o      cfstring=Bundle-Vendor in GeneratePreviewForURL.o      cfstring=<h4>Vendor: %@</h4> in GeneratePreviewForURL.o      cfstring=Bundle-Description in GeneratePreviewForURL.o      cfstring=<div class="description">%@</div> in GeneratePreviewForURL.o      cfstring=Bundle-ActivationPolicy in GeneratePreviewForURL.o      cfstring=<div class="tr"><div class="td">Activation policy:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o      cfstring=Bundle-Activator in GeneratePreviewForURL.o      cfstring=<div class="tr"><div class="td">Activator class:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o      cfstring=Export-Package in GeneratePreviewForURL.o      cfstring=<div class="tr"><div class="td">Exported packages:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o      cfstring=Import-Package in GeneratePreviewForURL.o      cfstring=<div class="tr"><div class="td">Imported packages:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o      cfstring=([a-zA-Z0-9\.]+)(((;[a-zA-Z]+:?=(("(\(|\[)?[\w\., ]+(\)|\])?")|([\w\.]+)))*(,|$))|(,|$)) in GeneratePreviewForURL.o  "_objc_enumerationMutation", referenced from:      _createHtml in GeneratePreviewForURL.o      _createHtml in GeneratePreviewForURL.o  "_OBJC_CLASS_$_NSAutoreleasePool", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_OBJC_CLASS_$_NSMutableDictionary", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_fgets", referenced from:      _readBundleManifest in GeneratePreviewForURL.o  "_OBJC_CLASS_$_NSDictionary", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_QLPreviewRequestIsCancelled", referenced from:      _GeneratePreviewForURL in GeneratePreviewForURL.o      _GeneratePreviewForURL in GeneratePreviewForURL.o  "_OBJC_CLASS_$_NSString", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_CFRelease", referenced from:      _QuickLookGeneratorQueryInterface in main.o      _QuickLookGeneratorQueryInterface in main.o      _DeallocQuickLookGeneratorPluginType in main.o      _QuickLookGeneratorPluginFactory in main.o  "_CFRetain", referenced from:      _AllocQuickLookGeneratorPluginType in main.o  "_malloc", referenced from:      _AllocQuickLookGeneratorPluginType in main.o      _AllocQuickLookGeneratorPluginType in main.o      _readBundleManifest in GeneratePreviewForURL.o  "_CFUUIDGetConstantUUIDWithBytes", referenced from:      _QuickLookGeneratorQueryInterface in main.o      _QuickLookGeneratorPluginFactory in main.o  "_NSLog", referenced from:      _GeneratePreviewForURL in GeneratePreviewForURL.o      _GeneratePreviewForURL in GeneratePreviewForURL.o  "_CFPlugInAddInstanceForFactory", referenced from:      _AllocQuickLookGeneratorPluginType in main.o  "_CFUUIDCreateFromUUIDBytes", referenced from:      _QuickLookGeneratorQueryInterface in main.o  "_QLPreviewRequestSetDataRepresentation", referenced from:      _GeneratePreviewForURL in GeneratePreviewForURL.o  "_CFPlugInRemoveInstanceForFactory", referenced from:      _DeallocQuickLookGeneratorPluginType in main.o  "_OBJC_CLASS_$_NSData", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o  "_fclose", referenced from:      _GeneratePreviewForURL in GeneratePreviewForURL.o  "_objc_msgSend_fixup", referenced from:      l_objc_msgSend_fixup_alloc in GeneratePreviewForURL.o      l_objc_msgSend_fixup_init in GeneratePreviewForURL.o      l_objc_msgSend_fixup_autorelease in GeneratePreviewForURL.o      l_objc_msgSend_fixup_matchEnumeratorWithRegex_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_nextRangeForCapture_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_substringWithRange_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_appendFormat_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_objectForKey_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_removeObjectForKey_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_characterSetWithCharactersInString_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_initWithUTF8String_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_characterAtIndex_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_whitespaceAndNewlineCharacterSet in GeneratePreviewForURL.o      l_objc_msgSend_fixup_stringByTrimmingCharactersInSet_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_appendString_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_setObject_forKey_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_release in GeneratePreviewForURL.o      l_objc_msgSend_fixup_rangeOfCharacterFromSet_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_componentsSeparatedByString_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_objectAtIndex_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_retain in GeneratePreviewForURL.o      l_objc_msgSend_fixup_initWithString_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_bundleWithIdentifier_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_bundlePath in GeneratePreviewForURL.o      l_objc_msgSend_fixup_stringWithFormat_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_stringWithContentsOfFile_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_regexWithRegexString_options_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_entries in GeneratePreviewForURL.o      l_objc_msgSend_fixup_isMatchedByRegex_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_length in GeneratePreviewForURL.o      l_objc_msgSend_fixup_substringToIndex_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_stringByReplacingOccurrencesOfString_withString_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_countByEnumeratingWithState_objects_count_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_count in GeneratePreviewForURL.o      l_objc_msgSend_fixup_allKeys in GeneratePreviewForURL.o      l_objc_msgSend_fixup_dataWithContentsOfFile_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_dictionaryWithObject_forKey_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_initWithFile_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_entryNamed_ in GeneratePreviewForURL.o      l_objc_msgSend_fixup_dataUsingEncoding_ in GeneratePreviewForURL.old: symbol(s) not foundcollect2: ld returned 1 exit status179(22@96"In /Developer/SDKs/MacOSX10.6.sdk/usr/lib/bundle1.o, missing required architecture ppc64 in file281025488#0#110#0(6@0"281025488#0#0#0#0#0"0(22@97"In /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libz.dylib, missing required architecture ppc64 in file281025488#110#111#0(6@0"281025488#0#0#0#0#0"0(22@145"In /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//CoreFoundation.framework/CoreFoundation, missing required architecture ppc64 in file281025488#221#159#0(6@0"281025488#0#0#0#0#0"0(22@141"In /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//CoreServices.framework/CoreServices, missing required architecture ppc64 in file281025488#380#155#0(6@0"281025488#0#0#0#0#0"0(22@155"In /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//ApplicationServices.framework/ApplicationServices, missing required architecture ppc64 in file281025488#535#169#0(6@0"281025488#0#0#0#0#0"0(22@135"In /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//QuickLook.framework/QuickLook, missing required architecture ppc64 in file281025488#704#149#0(6@0"281025488#0#0#0#0#0"0(22@137"In /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks//Foundation.framework/Foundation, missing required architecture ppc64 in file281025488#853#151#0(6@0"281025488#0#0#0#0#0"0(22@116"In /Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks//Zip.framework/Zip, missing required architecture ppc64 in file281025488#1004#130#0(6@0"281025488#0#0#0#0#0"0(22@106"In /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libgcc_s.10.5.dylib, missing required architecture ppc64 in file281025488#1134#120#0(6@0"281025488#0#0#0#0#0"0(22@103"In /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libSystemStubs.a, missing required architecture ppc64 in file281025488#1254#117#0(6@0"281025488#0#0#0#0#0"0(22@102"In /Developer/SDKs/MacOSX10.6.sdk/usr/lib/libSystem.dylib, missing required architecture ppc64 in file281025488#1371#116#0(6@0"281025488#0#0#0#0#0"0(4@56""_kQLPreviewPropertyAttachmentDataKey", referenced from:281025488#1506#59#0(6@0"281025488#0#0#0#0#0"0(13@76"_kQLPreviewPropertyAttachmentDataKey$non_lazy_ptr in GeneratePreviewForURL.o281025488#1565#83#0(6@0"281025488#0#0#0#0#0"0(4@42""_OBJC_CLASS_$_NSBundle", referenced from:281025488#1648#45#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#1693#58#0(6@0"281025488#0#0#0#0#0"0(4@44""_CFURLCopyFileSystemPath", referenced from:281025488#1751#47#0(6@0"281025488#0#0#0#0#0"0(13@49"_GeneratePreviewForURL in GeneratePreviewForURL.o281025488#1798#56#0(6@0"281025488#0#0#0#0#0"0(4@28""_CFEqual", referenced from:281025488#1854#31#0(6@0"281025488#0#0#0#0#0"0(13@43"_QuickLookGeneratorQueryInterface in main.o281025488#1885#50#0(6@0"281025488#0#0#0#0#0"0(13@42"_QuickLookGeneratorPluginFactory in main.o281025488#1935#49#0(6@0"281025488#0#0#0#0#0"0(4@44""_OBJC_CLASS_$_ZipArchive", referenced from:281025488#1984#47#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#2031#58#0(6@0"281025488#0#0#0#0#0"0(4@50""_kQLPreviewPropertyMIMETypeKey", referenced from:281025488#2089#53#0(6@0"281025488#0#0#0#0#0"0(13@70"_kQLPreviewPropertyMIMETypeKey$non_lazy_ptr in GeneratePreviewForURL.o281025488#2142#77#0(6@0"281025488#0#0#0#0#0"0(4@49""_OBJC_CLASS_$_NSMutableString", referenced from:281025488#2219#52#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#2271#58#0(6@0"281025488#0#0#0#0#0"0(4@48""_OBJC_CLASS_$_NSCharacterSet", referenced from:281025488#2329#51#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#2380#58#0(6@0"281025488#0#0#0#0#0"0(4@53""_kQLPreviewPropertyAttachmentsKey", referenced from:281025488#2438#56#0(6@0"281025488#0#0#0#0#0"0(13@73"_kQLPreviewPropertyAttachmentsKey$non_lazy_ptr in GeneratePreviewForURL.o281025488#2494#80#0(6@0"281025488#0#0#0#0#0"0(4@32""_kUTTypeHTML", referenced from:281025488#2574#35#0(6@0"281025488#0#0#0#0#0"0(13@52"_kUTTypeHTML$non_lazy_ptr in GeneratePreviewForURL.o281025488#2609#59#0(6@0"281025488#0#0#0#0#0"0(4@43""_CFUUIDCreateFromString", referenced from:281025488#2668#46#0(6@0"281025488#0#0#0#0#0"0(13@42"_QuickLookGeneratorPluginFactory in main.o281025488#2714#49#0(6@0"281025488#0#0#0#0#0"0(4@40""_kCFAllocatorDefault", referenced from:281025488#2763#43#0(6@0"281025488#0#0#0#0#0"0(13@43"_kCFAllocatorDefault$non_lazy_ptr in main.o281025488#2806#50#0(6@0"281025488#0#0#0#0#0"0(4@58""_kQLPreviewPropertyTextEncodingNameKey", referenced from:281025488#2856#61#0(6@0"281025488#0#0#0#0#0"0(13@78"_kQLPreviewPropertyTextEncodingNameKey$non_lazy_ptr in GeneratePreviewForURL.o281025488#2917#85#0(6@0"281025488#0#0#0#0#0"0(4@25""_free", referenced from:281025488#3002#28#0(6@0"281025488#0#0#0#0#0"0(13@46"_DeallocQuickLookGeneratorPluginType in main.o281025488#3030#53#0(6@0"281025488#0#0#0#0#0"0(13@46"_DeallocQuickLookGeneratorPluginType in main.o281025488#3083#53#0(6@0"281025488#0#0#0#0#0"0(13@46"_readBundleManifest in GeneratePreviewForURL.o281025488#3136#53#0(6@0"281025488#0#0#0#0#0"0(4@53""___CFConstantStringClassReference", referenced from:281025488#3189#56#0(6@0"281025488#0#0#0#0#0"0(13@55"Cfstring=F6DDB9E5-0991-4B47-B8CB-25E4F3CDE900 in main.o281025488#3245#62#0(6@0"281025488#0#0#0#0#0"0(13@43"Cfstring=%@<br/> in GeneratePreviewForURL.o281025488#3307#50#0(6@0"281025488#0#0#0#0#0"0(13@41"Cfstring=UTF-8 in GeneratePreviewForURL.o281025488#3357#48#0(6@0"281025488#0#0#0#0#0"0(13@45"Cfstring=text/html in GeneratePreviewForURL.o281025488#3405#52#0(6@0"281025488#0#0#0#0#0"0(13@77"Cfstring=de.dudedevelopment.osgiquicklookgenerator in GeneratePreviewForURL.o281025488#3457#84#0(6@0"281025488#0#0#0#0#0"0(13@42"Cfstring=<html> in GeneratePreviewForURL.o281025488#3541#49#0(6@0"281025488#0#0#0#0#0"0(13@40"Cfstring=%@%@ in GeneratePreviewForURL.o281025488#3590#47#0(6@0"281025488#0#0#0#0#0"0(13@65"Cfstring=/Contents/Resources/head.html in GeneratePreviewForURL.o281025488#3637#72#0(6@0"281025488#0#0#0#0#0"0(13@116"Cfstring=<body>	<div style="float:left; padding: 10px;"><img src="cid:bundle.gif"/></div> in GeneratePreviewForURL.o281025488#3709#123#0(6@0"281025488#0#0#0#0#0"0(13@55"Cfstring=<div class="table"> in GeneratePreviewForURL.o281025488#3832#62#0(6@0"281025488#0#0#0#0#0"0(13@58"Cfstring=^[a-zA-Z0-9/]+\.class$ in GeneratePreviewForURL.o281025488#3894#65#0(6@0"281025488#0#0#0#0#0"0(13@37"Cfstring=/ in GeneratePreviewForURL.o281025488#3959#44#0(6@0"281025488#0#0#0#0#0"0(13@37"Cfstring=. in GeneratePreviewForURL.o281025488#4003#44#0(6@0"281025488#0#0#0#0#0"0(13@121"Cfstring=<div class="tr"><div class="td">Included classes:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o281025488#4047#128#0(6@0"281025488#0#0#0#0#0"0(13@84"Cfstring=</div><h4>Other headers:</h4><div class="table"> in GeneratePreviewForURL.o281025488#4175#91#0(6@0"281025488#0#0#0#0#0"0(13@107"Cfstring=<div class="tr"><div class="td">%@:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o281025488#4266#114#0(6@0"281025488#0#0#0#0#0"0(13@56"Cfstring=</div></body></html> in GeneratePreviewForURL.o281025488#4380#63#0(6@0"281025488#0#0#0#0#0"0(13@66"Cfstring=/Contents/Resources/bundle.gif in GeneratePreviewForURL.o281025488#4443#73#0(6@0"281025488#0#0#0#0#0"0(13@45"Cfstring=image/gif in GeneratePreviewForURL.o281025488#4516#52#0(6@0"281025488#0#0#0#0#0"0(13@46"Cfstring=bundle.gif in GeneratePreviewForURL.o281025488#4568#53#0(6@0"281025488#0#0#0#0#0"0(13@37"Cfstring=: in GeneratePreviewForURL.o281025488#4621#44#0(6@0"281025488#0#0#0#0#0"0(13@38"Cfstring=:  in GeneratePreviewForURL.o281025488#4665#45#0(6@0"281025488#0#0#0#0#0"0(13@59"Cfstring=Could not open JAR file in GeneratePreviewForURL.o281025488#4710#66#0(6@0"281025488#0#0#0#0#0"0(13@56"Cfstring=META-INF/MANIFEST.MF in GeneratePreviewForURL.o281025488#4776#63#0(6@0"281025488#0#0#0#0#0"0(13@75"Cfstring=No manifest found, not a valid JAR file in GeneratePreviewForURL.o281025488#4839#82#0(6@0"281025488#0#0#0#0#0"0(13@55"Cfstring=Bundle-SymbolicName in GeneratePreviewForURL.o281025488#4921#62#0(6@0"281025488#0#0#0#0#0"0(13@88"Cfstring=Bundle-SymbolicName not set, not a valid OSGi bundle in GeneratePreviewForURL.o281025488#4983#95#0(6@0"281025488#0#0#0#0#0"0(13@58"Cfstring=Bundle-ManifestVersion in GeneratePreviewForURL.o281025488#5078#65#0(6@0"281025488#0#0#0#0#0"0(13@36"Cfstring= in GeneratePreviewForURL.o281025488#5143#43#0(6@0"281025488#0#0#0#0#0"0(13@52"Cfstring=Manifest-Version in GeneratePreviewForURL.o281025488#5186#59#0(6@0"281025488#0#0#0#0#0"0(13@47"Cfstring=Bundle-Name in GeneratePreviewForURL.o281025488#5245#54#0(6@0"281025488#0#0#0#0#0"0(13@47"Cfstring=<h1>%@</h1> in GeneratePreviewForURL.o281025488#5299#54#0(6@0"281025488#0#0#0#0#0"0(13@47"Cfstring=<h2>%@</h2> in GeneratePreviewForURL.o281025488#5353#54#0(6@0"281025488#0#0#0#0#0"0(13@50"Cfstring=Bundle-Version in GeneratePreviewForURL.o281025488#5407#57#0(6@0"281025488#0#0#0#0#0"0(13@56"Cfstring=<h4>Version: %@</h4> in GeneratePreviewForURL.o281025488#5464#63#0(6@0"281025488#0#0#0#0#0"0(13@49"Cfstring=Bundle-Vendor in GeneratePreviewForURL.o281025488#5527#56#0(6@0"281025488#0#0#0#0#0"0(13@55"Cfstring=<h4>Vendor: %@</h4> in GeneratePreviewForURL.o281025488#5583#62#0(6@0"281025488#0#0#0#0#0"0(13@54"Cfstring=Bundle-Description in GeneratePreviewForURL.o281025488#5645#61#0(6@0"281025488#0#0#0#0#0"0(13@69"Cfstring=<div class="description">%@</div> in GeneratePreviewForURL.o281025488#5706#76#0(6@0"281025488#0#0#0#0#0"0(13@59"Cfstring=Bundle-ActivationPolicy in GeneratePreviewForURL.o281025488#5782#66#0(6@0"281025488#0#0#0#0#0"0(13@122"Cfstring=<div class="tr"><div class="td">Activation policy:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o281025488#5848#129#0(6@0"281025488#0#0#0#0#0"0(13@52"Cfstring=Bundle-Activator in GeneratePreviewForURL.o281025488#5977#59#0(6@0"281025488#0#0#0#0#0"0(13@120"Cfstring=<div class="tr"><div class="td">Activator class:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o281025488#6036#127#0(6@0"281025488#0#0#0#0#0"0(13@50"Cfstring=Export-Package in GeneratePreviewForURL.o281025488#6163#57#0(6@0"281025488#0#0#0#0#0"0(13@122"Cfstring=<div class="tr"><div class="td">Exported packages:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o281025488#6220#129#0(6@0"281025488#0#0#0#0#0"0(13@50"Cfstring=Import-Package in GeneratePreviewForURL.o281025488#6349#57#0(6@0"281025488#0#0#0#0#0"0(13@122"Cfstring=<div class="tr"><div class="td">Imported packages:</div><div class="td">%@</div></div> in GeneratePreviewForURL.o281025488#6406#129#0(6@0"281025488#0#0#0#0#0"0(13@124"Cfstring=([a-zA-Z0-9\.]+)(((;[a-zA-Z]+:?=(("(\(|\[)?[\w\., ]+(\)|\])?")|([\w\.]+)))*(,|$))|(,|$)) in GeneratePreviewForURL.o281025488#6535#131#0(6@0"281025488#0#0#0#0#0"0(4@45""_objc_enumerationMutation", referenced from:281025488#6666#48#0(6@0"281025488#0#0#0#0#0"0(13@38"_createHtml in GeneratePreviewForURL.o281025488#6714#45#0(6@0"281025488#0#0#0#0#0"0(13@38"_createHtml in GeneratePreviewForURL.o281025488#6759#45#0(6@0"281025488#0#0#0#0#0"0(4@51""_OBJC_CLASS_$_NSAutoreleasePool", referenced from:281025488#6804#54#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#6858#58#0(6@0"281025488#0#0#0#0#0"0(4@53""_OBJC_CLASS_$_NSMutableDictionary", referenced from:281025488#6916#56#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#6972#58#0(6@0"281025488#0#0#0#0#0"0(4@26""_fgets", referenced from:281025488#7030#29#0(6@0"281025488#0#0#0#0#0"0(13@46"_readBundleManifest in GeneratePreviewForURL.o281025488#7059#53#0(6@0"281025488#0#0#0#0#0"0(4@46""_OBJC_CLASS_$_NSDictionary", referenced from:281025488#7112#49#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#7161#58#0(6@0"281025488#0#0#0#0#0"0(4@48""_QLPreviewRequestIsCancelled", referenced from:281025488#7219#51#0(6@0"281025488#0#0#0#0#0"0(13@49"_GeneratePreviewForURL in GeneratePreviewForURL.o281025488#7270#56#0(6@0"281025488#0#0#0#0#0"0(13@49"_GeneratePreviewForURL in GeneratePreviewForURL.o281025488#7326#56#0(6@0"281025488#0#0#0#0#0"0(4@42""_OBJC_CLASS_$_NSString", referenced from:281025488#7382#45#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#7427#58#0(6@0"281025488#0#0#0#0#0"0(4@30""_CFRelease", referenced from:281025488#7485#33#0(6@0"281025488#0#0#0#0#0"0(13@43"_QuickLookGeneratorQueryInterface in main.o281025488#7518#50#0(6@0"281025488#0#0#0#0#0"0(13@43"_QuickLookGeneratorQueryInterface in main.o281025488#7568#50#0(6@0"281025488#0#0#0#0#0"0(13@46"_DeallocQuickLookGeneratorPluginType in main.o281025488#7618#53#0(6@0"281025488#0#0#0#0#0"0(13@42"_QuickLookGeneratorPluginFactory in main.o281025488#7671#49#0(6@0"281025488#0#0#0#0#0"0(4@29""_CFRetain", referenced from:281025488#7720#32#0(6@0"281025488#0#0#0#0#0"0(13@44"_AllocQuickLookGeneratorPluginType in main.o281025488#7752#51#0(6@0"281025488#0#0#0#0#0"0(4@27""_malloc", referenced from:281025488#7803#30#0(6@0"281025488#0#0#0#0#0"0(13@44"_AllocQuickLookGeneratorPluginType in main.o281025488#7833#51#0(6@0"281025488#0#0#0#0#0"0(13@44"_AllocQuickLookGeneratorPluginType in main.o281025488#7884#51#0(6@0"281025488#0#0#0#0#0"0(13@46"_readBundleManifest in GeneratePreviewForURL.o281025488#7935#53#0(6@0"281025488#0#0#0#0#0"0(4@51""_CFUUIDGetConstantUUIDWithBytes", referenced from:281025488#7988#54#0(6@0"281025488#0#0#0#0#0"0(13@43"_QuickLookGeneratorQueryInterface in main.o281025488#8042#50#0(6@0"281025488#0#0#0#0#0"0(13@42"_QuickLookGeneratorPluginFactory in main.o281025488#8092#49#0(6@0"281025488#0#0#0#0#0"0(4@26""_NSLog", referenced from:281025488#8141#29#0(6@0"281025488#0#0#0#0#0"0(13@49"_GeneratePreviewForURL in GeneratePreviewForURL.o281025488#8170#56#0(6@0"281025488#0#0#0#0#0"0(13@49"_GeneratePreviewForURL in GeneratePreviewForURL.o281025488#8226#56#0(6@0"281025488#0#0#0#0#0"0(4@50""_CFPlugInAddInstanceForFactory", referenced from:281025488#8282#53#0(6@0"281025488#0#0#0#0#0"0(13@44"_AllocQuickLookGeneratorPluginType in main.o281025488#8335#51#0(6@0"281025488#0#0#0#0#0"0(4@46""_CFUUIDCreateFromUUIDBytes", referenced from:281025488#8386#49#0(6@0"281025488#0#0#0#0#0"0(13@43"_QuickLookGeneratorQueryInterface in main.o281025488#8435#50#0(6@0"281025488#0#0#0#0#0"0(4@58""_QLPreviewRequestSetDataRepresentation", referenced from:281025488#8485#61#0(6@0"281025488#0#0#0#0#0"0(13@49"_GeneratePreviewForURL in GeneratePreviewForURL.o281025488#8546#56#0(6@0"281025488#0#0#0#0#0"0(4@53""_CFPlugInRemoveInstanceForFactory", referenced from:281025488#8602#56#0(6@0"281025488#0#0#0#0#0"0(13@46"_DeallocQuickLookGeneratorPluginType in main.o281025488#8658#53#0(6@0"281025488#0#0#0#0#0"0(4@40""_OBJC_CLASS_$_NSData", referenced from:281025488#8711#43#0(6@0"281025488#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025488#8754#58#0(6@0"281025488#0#0#0#0#0"0(4@27""_fclose", referenced from:281025488#8812#30#0(6@0"281025488#0#0#0#0#0"0(13@49"_GeneratePreviewForURL in GeneratePreviewForURL.o281025488#8842#56#0(6@0"281025488#0#0#0#0#0"0(4@39""_objc_msgSend_fixup", referenced from:281025488#8898#42#0(6@0"281025488#0#0#0#0#0"0(13@53"L_objc_msgSend_fixup_alloc in GeneratePreviewForURL.o281025488#8940#60#0(6@0"281025488#0#0#0#0#0"0(13@52"L_objc_msgSend_fixup_init in GeneratePreviewForURL.o281025488#9000#59#0(6@0"281025488#0#0#0#0#0"0(13@59"L_objc_msgSend_fixup_autorelease in GeneratePreviewForURL.o281025488#9059#66#0(6@0"281025488#0#0#0#0#0"0(13@73"L_objc_msgSend_fixup_matchEnumeratorWithRegex_ in GeneratePreviewForURL.o281025488#9125#80#0(6@0"281025488#0#0#0#0#0"0(13@68"L_objc_msgSend_fixup_nextRangeForCapture_ in GeneratePreviewForURL.o281025488#9205#75#0(6@0"281025488#0#0#0#0#0"0(13@67"L_objc_msgSend_fixup_substringWithRange_ in GeneratePreviewForURL.o281025488#9280#74#0(6@0"281025488#0#0#0#0#0"0(13@61"L_objc_msgSend_fixup_appendFormat_ in GeneratePreviewForURL.o281025488#9354#68#0(6@0"281025488#0#0#0#0#0"0(13@61"L_objc_msgSend_fixup_objectForKey_ in GeneratePreviewForURL.o281025488#9422#68#0(6@0"281025488#0#0#0#0#0"0(13@67"L_objc_msgSend_fixup_removeObjectForKey_ in GeneratePreviewForURL.o281025488#9490#74#0(6@0"281025488#0#0#0#0#0"0(13@83"L_objc_msgSend_fixup_characterSetWithCharactersInString_ in GeneratePreviewForURL.o281025488#9564#90#0(6@0"281025488#0#0#0#0#0"0(13@67"L_objc_msgSend_fixup_initWithUTF8String_ in GeneratePreviewForURL.o281025488#9654#74#0(6@0"281025488#0#0#0#0#0"0(13@65"L_objc_msgSend_fixup_characterAtIndex_ in GeneratePreviewForURL.o281025488#9728#72#0(6@0"281025488#0#0#0#0#0"0(13@80"L_objc_msgSend_fixup_whitespaceAndNewlineCharacterSet in GeneratePreviewForURL.o281025488#9800#87#0(6@0"281025488#0#0#0#0#0"0(13@80"L_objc_msgSend_fixup_stringByTrimmingCharactersInSet_ in GeneratePreviewForURL.o281025488#9887#87#0(6@0"281025488#0#0#0#0#0"0(13@61"L_objc_msgSend_fixup_appendString_ in GeneratePreviewForURL.o281025488#9974#68#0(6@0"281025488#0#0#0#0#0"0(13@65"L_objc_msgSend_fixup_setObject_forKey_ in GeneratePreviewForURL.o281025488#10042#72#0(6@0"281025488#0#0#0#0#0"0(13@55"L_objc_msgSend_fixup_release in GeneratePreviewForURL.o281025488#10114#62#0(6@0"281025488#0#0#0#0#0"0(13@72"L_objc_msgSend_fixup_rangeOfCharacterFromSet_ in GeneratePreviewForURL.o281025488#10176#79#0(6@0"281025488#0#0#0#0#0"0(13@76"L_objc_msgSend_fixup_componentsSeparatedByString_ in GeneratePreviewForURL.o281025488#10255#83#0(6@0"281025488#0#0#0#0#0"0(13@62"L_objc_msgSend_fixup_objectAtIndex_ in GeneratePreviewForURL.o281025488#10338#69#0(6@0"281025488#0#0#0#0#0"0(13@54"L_objc_msgSend_fixup_retain in GeneratePreviewForURL.o281025488#10407#61#0(6@0"281025488#0#0#0#0#0"0(13@63"L_objc_msgSend_fixup_initWithString_ in GeneratePreviewForURL.o281025488#10468#70#0(6@0"281025488#0#0#0#0#0"0(13@69"L_objc_msgSend_fixup_bundleWithIdentifier_ in GeneratePreviewForURL.o281025488#10538#76#0(6@0"281025488#0#0#0#0#0"0(13@58"L_objc_msgSend_fixup_bundlePath in GeneratePreviewForURL.o281025488#10614#65#0(6@0"281025488#0#0#0#0#0"0(13@65"L_objc_msgSend_fixup_stringWithFormat_ in GeneratePreviewForURL.o281025488#10679#72#0(6@0"281025488#0#0#0#0#0"0(13@73"L_objc_msgSend_fixup_stringWithContentsOfFile_ in GeneratePreviewForURL.o281025488#10751#80#0(6@0"281025488#0#0#0#0#0"0(13@77"L_objc_msgSend_fixup_regexWithRegexString_options_ in GeneratePreviewForURL.o281025488#10831#84#0(6@0"281025488#0#0#0#0#0"0(13@55"L_objc_msgSend_fixup_entries in GeneratePreviewForURL.o281025488#10915#62#0(6@0"281025488#0#0#0#0#0"0(13@65"L_objc_msgSend_fixup_isMatchedByRegex_ in GeneratePreviewForURL.o281025488#10977#72#0(6@0"281025488#0#0#0#0#0"0(13@54"L_objc_msgSend_fixup_length in GeneratePreviewForURL.o281025488#11049#61#0(6@0"281025488#0#0#0#0#0"0(13@65"L_objc_msgSend_fixup_substringToIndex_ in GeneratePreviewForURL.o281025488#11110#72#0(6@0"281025488#0#0#0#0#0"0(13@96"L_objc_msgSend_fixup_stringByReplacingOccurrencesOfString_withString_ in GeneratePreviewForURL.o281025488#11182#103#0(6@0"281025488#0#0#0#0#0"0(13@90"L_objc_msgSend_fixup_countByEnumeratingWithState_objects_count_ in GeneratePreviewForURL.o281025488#11285#97#0(6@0"281025488#0#0#0#0#0"0(13@53"L_objc_msgSend_fixup_count in GeneratePreviewForURL.o281025488#11382#60#0(6@0"281025488#0#0#0#0#0"0(13@55"L_objc_msgSend_fixup_allKeys in GeneratePreviewForURL.o281025488#11442#62#0(6@0"281025488#0#0#0#0#0"0(13@71"L_objc_msgSend_fixup_dataWithContentsOfFile_ in GeneratePreviewForURL.o281025488#11504#78#0(6@0"281025488#0#0#0#0#0"0(13@76"L_objc_msgSend_fixup_dictionaryWithObject_forKey_ in GeneratePreviewForURL.o281025488#11582#83#0(6@0"281025488#0#0#0#0#0"0(13@61"L_objc_msgSend_fixup_initWithFile_ in GeneratePreviewForURL.o281025488#11665#68#0(6@0"281025488#0#0#0#0#0"0(13@59"L_objc_msgSend_fixup_entryNamed_ in GeneratePreviewForURL.o281025488#11733#66#0(6@0"281025488#0#0#0#0#0"0(13@66"L_objc_msgSend_fixup_dataUsingEncoding_ in GeneratePreviewForURL.o281025488#11799#73#0(6@0"281025488#0#0#0#0#0"0(13@19"Symbol(s) not found281025488#11872#24#0(6@0"281025488#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status281025488#11896#36#0(6@0"281025488#0#0#0#0#0"0(0#0#0"4300882208#1005"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks -filelist "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/OSGi Bundle Quicklook.LinkFileList" -mmacosx-version-min=10.5 -lz -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Foundation -framework RegexKit -framework Zip -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/ppc64/OSGi Bundle Quicklook"1#
+
+CLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook" normal x86_64
+s281025489.264950
+e281025489.304500
+r0
+xLd
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook
+xnormal
+xx86_64
+old: warning: in /Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks//Zip.framework/Zip, missing required architecture x86_64 in file
+oUndefined symbols:
+o  "_OBJC_CLASS_$_ZipArchive", referenced from:
+o      __objc_classrefs__DATA@0 in GeneratePreviewForURL.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@176"Link /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook281025489#281025489#0(315"ld: warning: in /Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks//Zip.framework/Zip, missing required architecture x86_64 in fileUndefined symbols:  "_OBJC_CLASS_$_ZipArchive", referenced from:      __objc_classrefs__DATA@0 in GeneratePreviewForURL.old: symbol(s) not foundcollect2: ld returned 1 exit status5(22@117"In /Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks//Zip.framework/Zip, missing required architecture x86_64 in file281025489#0#131#0(6@0"281025489#0#0#0#0#0"0(4@44""_OBJC_CLASS_$_ZipArchive", referenced from:281025489#150#47#0(6@0"281025489#0#0#0#0#0"0(13@51"__objc_classrefs__DATA@0 in GeneratePreviewForURL.o281025489#197#58#0(6@0"281025489#0#0#0#0#0"0(13@19"Symbol(s) not found281025489#255#24#0(6@0"281025489#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status281025489#279#36#0(6@0"281025489#0#0#0#0#0"0(0#0#0"4300882208#1008"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks -filelist "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook.LinkFileList" -mmacosx-version-min=10.5 -lz -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Foundation -framework RegexKit -framework Zip -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook"1#
+
+CLd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook" normal x86_64
+s281303700.955929
+e281303700.990479
+r1
+xLd
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook
+xnormal
+xx86_64
+lSLF07#2@147"Link /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook281303700#281303700#0(0"0(0#0#0"4300882208#1035"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release" "-F/Users/marcus/Documents/Development/OSGi Bundle Quicklook" -F/Developer/Local/Frameworks -filelist "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/OSGi Bundle Quicklook.build/Release/OSGi Bundle Quicklook.build/Objects-normal/x86_64/OSGi Bundle Quicklook.LinkFileList" -Xlinker -rpath -Xlinker @executable_path/../Frameworks -mmacosx-version-min=10.6 -lz -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Foundation -framework Zip -framework RegexKit -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/MacOS/OSGi Bundle Quicklook"0#
+
+CPBXCp "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/RegexKit.framework" ../../../../../Library/Frameworks/RegexKit.framework
+r0
+
+CPBXCp "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/RegexKit.framework" /Library/Frameworks/RegexKit.framework
+s281303700.991378
+e281303701.020321
+r1
+xPBXCp
+xbuild/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/RegexKit.framework
+x/Library/Frameworks/RegexKit.framework
+lSLF07#2@43"Copy /Library/Frameworks/RegexKit.framework281303700#281303701#0(0"0(0#0#38"/Library/Frameworks/RegexKit.framework4300882208#403"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Library/Frameworks/RegexKit.framework "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks"0#
+
+CPBXCp "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/RegexKit.framework" build/Release/../../../../../../../Library/Frameworks/RegexKit.framework
+r0
+
+CPBXCp "build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/Zip.framework" /Library/Frameworks/Zip.framework
+s281303700.990602
+e281303701.001815
+r1
+xPBXCp
+xbuild/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks/Zip.framework
+x/Library/Frameworks/Zip.framework
+lSLF07#2@38"Copy /Library/Frameworks/Zip.framework281303700#281303701#0(0"0(0#0#33"/Library/Frameworks/Zip.framework4300882208#398"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Library/Frameworks/Zip.framework "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Frameworks"0#
+
+CProcessInfoPlistFile "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist" Info.plist
+s281303699.526702
+e281303699.541483
+r1
+xProcessInfoPlistFile
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist281303699#281303699#0(0"0(0#0#68"/Users/marcus/Documents/Development/OSGi Bundle Quicklook/Info.plist4300882208#276"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator/Contents/Info.plist"0#
+
+CTouch "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator"
+s281303701.020432
+e281303701.023569
+r1
+xTouch
+x/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator
+lSLF07#2@111"Touch /Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator281303701#281303701#0(0"0(0#0#0"4300882208#197"    cd "/Users/marcus/Documents/Development/OSGi Bundle Quicklook"    /usr/bin/touch -c "/Users/marcus/Documents/Development/OSGi Bundle Quicklook/build/Release/OSGi Bundle Quicklook.qlgenerator"0#
+
