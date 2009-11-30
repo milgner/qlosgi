@@ -1,0 +1,25 @@
+This is a QuickLook plugin to preview information about OSGi bundles under OS X.
+
+The terms of the BSD license apply:
+http://www.opensource.org/licenses/bsd-license.php
+
+It was my first project using either OS X, Objective C and XCode so I spent more
+time wrestling with the latter than actually writing code (which as a result is
+more than a bit spaghetti-style, but working great nonetheless).
+There are still problems with the project configuration but I included a release
+built for OS X 10.6.
+Just copy it into /Library/QuickLook/ or ~/Library/QuickLook/ to install.
+If you have some experience coding for OS X, I'd be grateful if you could adapt
+the project to build out-of-the-box.
+
+You may contact me at mail@marcusilgner.com with any patches, enhancement
+requests or comments you may have.
+
+Libraries used:
+
+Zip.framework, (C) Joris Kluivers
+http://code.google.com/p/zip-framework/
+
+RegexKit framework, (C) John Engelhart
+http://regexkit.sourceforge.net/
+
